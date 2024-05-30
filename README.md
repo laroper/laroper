@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @laroper - `TECH'n IT 10 THE 🌏︎`
-- 👀 I’m interested in ==> `TECH, FAITH, FAMILY, FRIENDS, FUN & FOOD` - (NOT Necessarily in that order)
+- 👀 I’m interested in ==> `TECH, FAITH, FAMILY, FRIENDS, FUN & FOOD` 
 - 🌱 I’m currently learning ==> `PYTHON`
 - 💞️ I’m looking to collaborate on ==> `ANYTHING THAT I CAN HELP ON` 
 - 📫 How to reach me ==> `laropertech.me`
