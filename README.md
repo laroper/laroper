@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @laroper - `TECH'n I.T 10 THE 🌏︎`
+- 👋 Hi, I’m @laroper - `TECH'n IT 10 THE 🌏︎`
 - 👀 I’m interested in ==> TECH, FAITH, FAMILY, FOOD
 - 🌱 I’m currently learning ==> PYTHON
 - 💞️ I’m looking to collaborate on ...
