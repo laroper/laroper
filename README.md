@@ -1,7 +1,7 @@
 - 🖖🏾  Hi, I’m L.a.Roper -
   - `~\TECH'n\IT\10\THE\🌏︎`
   - `♥ Testing Software in Home-Lab`
-  - `♥pensource`
+  - `Everything 🌏︎pens♡urce`
 - 👀 I’m interested in ==> `TECH, FAITH, FAMILY, FRIENDS, FUN & FOOD` 
 - 🌱 I’m currently learning ==> `PYTHON`
 - 💞️ I’m looking to collaborate on ==> `ANYTHING THAT I CAN HELP ON` 
