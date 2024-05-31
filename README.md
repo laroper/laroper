@@ -1,6 +1,6 @@
 - 🖖🏾  Hi, I’m L.a.Roper -
   - `~\TECH'n\IT\10\THE\🌏︎`
-  - `♥ Testing Software in Home-Lab`
+  - `🔬 ♥ Testing Software in Home-Lab 🧪`
   - `Everything 🌏︎pens❤urce`
 - 👀 I’m interested in ==> `TECH, FAITH, FAMILY, FRIENDS, FUN & FOOD` 
 - 📚 I’m currently learning ==> `PYTHON`
