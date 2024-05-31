@@ -7,9 +7,9 @@
 
   <dev>*********************************************************************</dev>
 
-<p align="center">
+<p align="">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,windows,apple,kali,py,vscode,github,bash,html,css,ai,&perline=10" />
+    <img src="https://skillicons.dev/icons?i=linux,windows,apple,kali,py,vscode,github,bash,html,css,ai,&perline=8" />
   </a>
 </p>
 
