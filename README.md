@@ -1,4 +1,5 @@
-- 🖖🏾  Hi, I’m @laroper - `TECH'n IT 10 THE 🌏︎`
+- 🖖🏾  Hi, I’m L.a.Roper -
+  - **Lover of TECH & Cybersecurity professional leveraging over ten years of experience in the IT industry. Adept in troubleshooting, and fixing IT-related issues**
 - 👀 I’m interested in ==> `TECH, FAITH, FAMILY, FRIENDS, FUN & FOOD` 
 - 🌱 I’m currently learning ==> `PYTHON`
 - 💞️ I’m looking to collaborate on ==> `ANYTHING THAT I CAN HELP ON` 
