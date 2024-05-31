@@ -3,7 +3,7 @@
   - `♥ Testing Software in Home-Lab`
   - `Everything 🌏︎pens❤urce`
 - 👀 I’m interested in ==> `TECH, FAITH, FAMILY, FRIENDS, FUN & FOOD` 
-- 📚’m currently learning ==> `PYTHON`
+- 📚 I’m currently learning ==> `PYTHON`
 - 💞️ I’m looking to collaborate on ==> `ANYTHING THAT I CAN HELP ON` 
 - 📫 How to reach me ==> `laropertech.me`
 - ⚡ Fun fact: ==>  `"...because I live, ye shall live also" - John 14:19`
