@@ -5,6 +5,14 @@
 - 📫 How to reach me ==> `laropertech.me`
 - ⚡ Fun fact: ==>  `"...because I live, ye shall live also" - John 14:19`
 
+  <dev>*********************************************************************</dev>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,windows,apple,kali,py,vscode,github,bash,html,css,ai,&perline=10" />
+  </a>
+</p>
+
 <!---
 laroper/laroper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
